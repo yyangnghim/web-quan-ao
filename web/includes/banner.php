@@ -1,0 +1,1 @@
+<section class="banner__large"></section>
